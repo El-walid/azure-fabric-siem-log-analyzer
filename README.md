@@ -1,7 +1,8 @@
 # 🛡️ Azure Fabric SIEM: Cybersecurity Log Analytics
 
 ### 🚀 Project Overview
-This project simulates a **Security Operations Center (SOC)** pipeline. I built a cloud-native solution to detect "Brute Force" cyber attacks in real-time using **Microsoft Fabric**.
+This project simulates a **Security Operations Center (SOC)** pipeline.
+ I built a cloud-native solution to detect "Brute Force" cyber attacks in real-time using **Microsoft Fabric**.
 
 **The Challenge:** Ingest massive volumes of raw server logs, clean nested JSON data, and identify specific IP addresses attempting unauthorized access (Event ID 4625).
 
