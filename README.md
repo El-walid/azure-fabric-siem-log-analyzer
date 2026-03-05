@@ -31,3 +31,7 @@ I built a cloud-native solution to detect "Brute Force" cyber attacks in real-ti
 1.  Run `log_generator.py` to create the dummy dataset.
 2.  Upload `server_logs.json` to a Fabric Lakehouse.
 3.  Import the PySpark notebook and run the ETL pipeline.
+
+
+
+Linkedin: https://www.linkedin.com/in/el-walid-el-alaoui-fels-51491538b?utm_source=share_via&utm_content=profile&utm_medium=member_android
