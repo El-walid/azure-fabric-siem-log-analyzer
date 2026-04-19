@@ -34,4 +34,12 @@ I built a cloud-native solution to detect "Brute Force" cyber attacks in real-ti
 
 
 
-Linkedin: https://www.linkedin.com/in/el-walid-el-alaoui-fels-51491538b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+## 👤 About the Author
+
+**El Walid El Alaoui Fels** *Data Engineer | Cloud Architect*
+
+Specializing in the Azure Data Platform, DevOps orchestration, and automated Python ETL pipelines. Based in Marrakech, Morocco, and actively taking on projects to help businesses modernize and automate their data infrastructure.
+
+[LinkedIn Profile](https://www.linkedin.com/in/el-walid-el-alaoui-fels-51491538b/)
+
+[Upwork](https://www.linkedin.com/in/el-walid-el-alaoui-fels-51491538b/)
